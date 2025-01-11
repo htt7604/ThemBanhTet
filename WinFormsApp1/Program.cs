@@ -15,8 +15,4 @@ namespace WinFormsApp1
         }
     }
     //hello day la Tai dang push len Githup
-    //push lan 2
-    //push lan 3
-    //push lan 4
-    //push lan 5
 }
