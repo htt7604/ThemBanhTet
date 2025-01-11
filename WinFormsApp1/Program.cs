@@ -13,6 +13,16 @@ namespace WinFormsApp1
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
         }
+
+
+
+
+
+
+
+
+
+        ///
     }
-    //hello day la Tai dang push len Githup
+
 }
