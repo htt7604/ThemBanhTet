@@ -14,15 +14,7 @@ namespace WinFormsApp1
             Application.Run(new Form1());
         }
 
-
-
-
-
-
-
-
-
-        ///
+        //dang thu  nghiem
     }
 
 }
