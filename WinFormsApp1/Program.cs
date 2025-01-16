@@ -22,6 +22,8 @@ namespace WinFormsApp1
         //vai can chý?ng
         
         ////lan 1
+        //m ghi gi do vo di 
+        //m them gi do vo di 
     }
 
 
