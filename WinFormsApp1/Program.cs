@@ -17,4 +17,5 @@ namespace WinFormsApp1
         //dang thu  nghiem
         //day la phan cua loi lam 
         //lan1
+        //lan2
  }
