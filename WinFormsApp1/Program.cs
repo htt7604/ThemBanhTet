@@ -14,8 +14,14 @@ namespace WinFormsApp1
         //    Application.Run(new Form1());
         }
 
+ 
         //dang thu  nghiem
         //day la phan cua loi lam 
-        //lan1
-        //lan2
+        //lan/l
  }
+        //vai can chý?ng
+        
+        ////lan 1
+    }
+
+
