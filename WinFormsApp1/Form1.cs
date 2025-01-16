@@ -9,7 +9,8 @@ namespace WinFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //chao minh la Tai dang cde
+            //chao minh la Tai dang c
+            //de
         }
     }
 }
